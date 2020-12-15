@@ -1,3 +1,3 @@
-x = 1
-if x == 1:
+x = 42
+if x == 42:
     print("Hello Mars")
